@@ -1,6 +1,5 @@
 from pathlib import Path
 import shutil
-from sre_parse import parse_template
 import sys
 import file_parser as parser
 from normalize import normalize
